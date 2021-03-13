@@ -1,0 +1,8 @@
+.myDiv {
+height: 92px;
+width: 420px;
+border: 5px outset black;
+background-color: lightblue;
+text-align: center;
+transform: translate(800px, 30px);
+}
